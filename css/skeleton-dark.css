@@ -95,7 +95,7 @@ body {
 
 #landing-content {
   overflow: hidden;
-  background-image: images\background.jpg;
+  background-image: url(https://github.com/raviine/raviine.github.io/blob/gh-pages/images/background.jpg?raw=true);
   width: 100%;
   background-size: 115%;
   background-repeat: no-repeat;
