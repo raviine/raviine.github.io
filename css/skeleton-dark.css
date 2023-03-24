@@ -90,6 +90,38 @@ html {
   color-scheme: dark;
 }
 body {
+  margin: 0px;
+}
+
+#landing-content {
+  overflow: hidden;
+  background-image: images\background.jpg;
+  width: 100%;
+  background-size: 115%;
+  background-repeat: no-repeat;
+  max-height: 500px;
+  border-bottom: solid;
+  border-bottom-color: #628027;
+  border-bottom-width: 5px;
+  padding: 0px;
+  transition: 250ms all linear;
+}
+
+.slider {
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  padding-top: 200px;
+  max-width: 1002px;
+}
+
+.slider img {
+  width: 80%;
+  padding-left: 10%;
+  padding-right: 10%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;
