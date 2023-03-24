@@ -94,6 +94,7 @@ html {
   height: 2160px;
   background-image: url(https://github.com/raviine/raviine.github.io/blob/gh-pages/images/background.jpg?raw=true);
   background-color: dark;
+  background-attachment: scroll;
   border-radius: 0px;
   transition-duration: 300ms;
   transition-timing-function: ease-out;
