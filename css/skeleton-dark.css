@@ -139,7 +139,7 @@ code {
   font-size: 90%;
   white-space: nowrap;
   background: #4E3B52;
-  border: 1px solid #e1e1e1;
+  border: 1px solid #4E3B52;
   border-radius: 4px;
 }
 pre > code {
@@ -192,7 +192,7 @@ hr {
   margin-top: 3rem;
   margin-bottom: 3.5rem;
   border-width: 0;
-  border-top: 1px solid #e1e1e1;
+  border-top: 1px solid #4E3B52;
 }
 /* Radius values:
 
