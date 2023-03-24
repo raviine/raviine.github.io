@@ -785,7 +785,7 @@ button:hover,
 /* Main */
 .button.button-main {
   color: #ffffff;
-  background-color: linear-gradient(225deg, #FF7061 0%, #8F0EFF 99.99%, #0099FF 100%);
+  background: linear-gradient(225deg, #FF7061 0%, #8F0EFF 99.99%, #0099FF 100%);
 }
 .button.button-main:hover,
 .button.button-main:focus {
