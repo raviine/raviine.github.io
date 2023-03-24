@@ -90,15 +90,15 @@ html {
   color-scheme: dark;
 }
 .follower {
-  width: 2000px;
-  height: 1000px;
+  width: 3840px;
+  height: 2160px;
   background-image: url(https://github.com/raviine/raviine.github.io/blob/gh-pages/images/background.jpg?raw=true);
-  background-color: red;
-  border-radius: 10px;
+  background-color: dark;
+  border-radius: 0px;
   transition-duration: 300ms;
   transition-timing-function: ease-out;
   position: fixed;
-  transform: translate(-10%, -10%);
+  transform: translate(-50%, -50%);
 }
 body {
   font-size: 18px;
