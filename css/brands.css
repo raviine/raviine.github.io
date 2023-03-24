@@ -771,3 +771,13 @@ button:hover,
 .button.button-unsplash:focus {
   filter: brightness(90%);
 }
+
+/* Plancke */
+.button.button-plancke {
+  color: #ffffff;
+  background-color: #3bafda;
+}
+.button.button-plancke:hover,
+.button.button-plancke:focus {
+  filter: brightness(90%);
+}
