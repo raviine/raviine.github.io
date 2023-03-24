@@ -781,3 +781,13 @@ button:hover,
 .button.button-plancke:focus {
   filter: brightness(90%);
 }
+
+/* Main */
+.button.button-main {
+  color: #ffffff;
+  background-color: linear-gradient(225deg, #FF7061 0%, #8F0EFF 99.99%, #0099FF 100%);
+}
+.button.button-main:hover,
+.button.button-main:focus {
+  filter: brightness(80%);
+}
